@@ -6,8 +6,6 @@ three **MCP servers** (Tavily, AviationStack, OpenWeatherMap). The draft itinera
 **human approval** before the final plan is produced, and conversation state is checkpointed in
 **PostgreSQL** so a thread can be resumed.
 
-This is **Part 5** of the series — it shows how to deploy the project on VPS using Docker
-
 ---
 
 ## Architecture
