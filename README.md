@@ -148,7 +148,7 @@ The image installs the vendored `aviationstack-mcp` package, so no separate MCP 
 Example prompt:
 
 ```
-Plan a complete 7 days Japan trip including flights, hotels and sightseeing under 2 lakhs.
+Plan a complete 7 days Japan trip including flights, hotels and sightseeing under $2000.
 ```
 
 ---
